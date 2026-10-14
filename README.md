@@ -1,3 +1,7 @@
+# I am Parv
+# I am from CSE AI - C
+# I study in KIET
+
 <p align="left">
   <img
     src="./assets/octocat.png"
