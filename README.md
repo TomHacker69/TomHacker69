@@ -17,7 +17,7 @@
 <h2 align="center">Full-Stack Python Developer | AI & ML Enthusiast</h2>
 
 *   I'm from Delhi,India.
-*   You can contact me at -> [ankitomar.shs@gmail.com](mailto:ankitomar.shs@gmail.com)
+*   You at -> [ankitomar.shs@gmail.com](mailto:ankitomar.shs@gmail.com)
 *   I'm currently learning Backend Development, Machine Learning and AI-based tools.
 *   Let me tell you a secret , I am a great Chef !
 
